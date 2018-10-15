@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm in Year 8
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love football and badminton as well as most sports.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[robert.andrews@challoners.org](mailto:robert.andrews@challoners.org)
